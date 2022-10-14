@@ -1,0 +1,132 @@
+html, body {
+    margin: 0;
+}
+body {
+    background-color: #f1f1f1;
+    display: flex;
+    justify-content: center;
+}
+
+.wrapper {
+    width: 1200px;
+    display: flex;
+    margin: 0 auto;
+    background-color: aquamarine;
+}
+.main {
+    display: flex;
+    flex-flow: column;
+    width: 85%;
+}
+
+.menu {
+    background-color: pink;
+    width: 15%;
+    
+}
+
+.menu ul{
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+    position: fixed;
+}
+
+.menu ul li a {
+    text-decoration: none;
+    color: #3f585c;
+    padding: 10px;
+    display: inline-block;
+    font-style:oblique;
+}
+
+.header {
+    background-color:#fffff0;
+    min-height: 150px;
+}
+.content {
+    background-color:#fffff0;
+    min-height: 300px;
+    padding: 20px;
+    text-align: center;
+}
+
+.content h1, h2 {
+    color:#d27b87;
+}
+
+#especialidades {
+    margin-top: 80px;
+    margin-bottom: 40px;
+}
+
+.imgespecialidades {
+    display: inline-block;
+}
+
+.imgespecialidades img {
+    border-radius: 100px;
+    padding: 20px;
+}
+.text {
+    position: absolute;
+    display: inline-block;
+    margin-top:100px;
+    background-color: rgb(252, 231, 234);
+    margin-left: -120px;
+    
+}
+
+.text h3 {
+    text-align: center;
+    font-size: 12px;
+    margin: 0;
+    padding: 3px;
+    color:#3f585c;
+}
+
+#equipe {
+    margin-top: 80px;
+    margin-bottom: 40px;
+}
+
+.footer {
+    background-color: rgb(252, 231, 234);
+    min-height: 150px;
+    display:flex;
+}
+
+.listas {
+    display: inline-block;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+.listas h3 {
+    font-size: 15px;
+    margin: 10px;
+    margin-left: 24px;
+    color: #3f585c;
+}
+
+.listas ul{
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+    
+}
+
+.listas ul li {
+    padding: 5px;
+    margin-left: 20px;
+    
+}
+
+.listas ul li a {
+text-decoration: none;
+color: #d27b87;
+font-size: 14px;
+}
+
+
+
