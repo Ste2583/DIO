@@ -18,7 +18,7 @@ body {
     flex-flow: column;
     width: 85%;
 }
-
+/*menu*/
 .menu {
     background-color: pink;
     width: 15%;
@@ -39,7 +39,7 @@ body {
     display: inline-block;
     font-style:oblique;
 }
-
+/*Conteudo do Index.HTML*/
 .header {
     background-color:#fffff0;
     min-height: 150px;
@@ -90,6 +90,7 @@ body {
     margin-bottom: 40px;
 }
 
+/*Conteudo do rodape utilizado em todas as paginas*/
 .footer {
     background-color: rgb(252, 231, 234);
     min-height: 150px;
@@ -127,6 +128,131 @@ text-decoration: none;
 color: #d27b87;
 font-size: 14px;
 }
+
+/*Conteudo da pagina A Clinica*/
+
+#nossosTratamentos {
+    margin-top: 90px;
+    margin-bottom: 60px;
+}
+
+#nossosTratamentos h3{
+color:#d27b87;
+margin-top: 50px;
+}
+
+/*Conteudo da pagina horario*/
+#sangue h2 {
+    margin-top: 60px;
+}
+#sangue h3 {
+    color: #d27b87;
+    margin: 30px;
+}
+
+#plaquetas h2 {
+    margin-top: 60px;
+}
+#plaquetas h3 {
+    color: #d27b87;
+    margin: 30px;
+}
+
+#quimioterapia h2 {
+    margin-top: 60px;
+}
+#quimioterapia h3 {
+    color: #d27b87;
+    margin: 30px;
+}
+
+#oncologia h2 {
+    margin-top: 60px;
+}
+#oncologia h3 {
+    color: #d27b87;
+    margin: 30px;
+}
+
+table {
+    border:1px solid #d27b87;
+    border-collapse:collapse;
+    margin-bottom: 40px;
+
+}
+
+table th, td{
+    color: #3f585c;
+}
+
+/*pagina de contatos*/
+
+form {
+    text-align: left;
+    border: #d27b87 2px solid;
+    padding: 8px;
+    color: #3f585c;
+    border-radius: 5px;
+}
+
+form input {
+    border-radius: 5px;
+    border-color: #d27b87;
+    color: #3f585c;
+    cursor: pointer;
+}
+
+#margem, #entreEmContato {
+    display: inline-block;
+    padding: 10px;
+    margin: auto;    
+}
+#margem {
+    float: right;
+}
+
+#nossoContato{
+    margin-bottom: 2px;
+    border: #d27b87 2px solid;
+    border-radius: 5px;
+    padding: 4px;
+    font-size: 15px;
+   
+}
+
+#nossoContato h3{
+    color: #d27b87;
+    margin-bottom: -8px;
+    margin-top: 4px;
+
+}
+
+#nossoContato p{
+    color: #3f585c;
+}
+
+#unidades {
+    border: #d27b87 2px solid;
+    border-radius: 5px;
+    margin-top: 20px;
+    font-size: 15px;
+    padding: 4px;
+      
+}
+
+#unidades h3 {
+    color: #d27b87;
+    margin-bottom: -8px;
+    margin-top: 4px;
+}
+
+#unidades p {
+    color: #3f585c;
+}
+
+
+
+
 
 
 
