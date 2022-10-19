@@ -8,14 +8,6 @@
 
 <h1 align="center">CLINICAMAISEU_ESTUDO_DIO</h1>
 
-
-  <!-- <img alt="Github issues" src="https://img.shields.io/github/issues/{{YOUR_GITHUB_USERNAME}}/clinicamaiseu_estudo_dio?color=56BEB8" /> -->
-
-  <!-- <img alt="Github forks" src="https://img.shields.io/github/forks/{{YOUR_GITHUB_USERNAME}}/clinicamaiseu_estudo_dio?color=56BEB8" /> -->
-
-  <!-- <img alt="Github stars" src="https://img.shields.io/github/stars/{{YOUR_GITHUB_USERNAME}}/clinicamaiseu_estudo_dio?color=56BEB8" /> -->
-</p>
-
 <!-- Status -->
 
 <!-- <h4 align="center"> 
@@ -32,6 +24,11 @@
 </p>
 
 <br>
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/91191423/196709880-af3bcde8-8559-4519-9edf-de7162e43b1c.gif"/>
+</div>
+
 
 ## :dart: Sobre ##
 
