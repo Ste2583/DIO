@@ -28,7 +28,7 @@
   <a href="#dart-sobre">Sobre </a> &#xa0; | &#xa0; 
   <a href="#sparkles-características">Características</a> &#xa0; | &#xa0;
   <a href="#rocket-tecnologias">Tecnologias</a> &#xa0; | &#xa0;
-  <a href="https://github.com/{{YOUR_GITHUB_USERNAME}}" target="_blank">Autor</a>
+  <a href="https://github.com/Ste2583" target="_blank">Autor</a>
 </p>
 
 <br>
@@ -54,8 +54,8 @@ Neste projeto foi utilizado:
 - [CSS](https://www.w3schools.com/css/)
 
 
-Made with :heart: by <a href="https://github.com/{{YOUR_GITHUB_USERNAME}}" target="_blank">{{Stephany Drielle}}</a>
+Feito com :heart: por <a href="https://github.com/Ste2583" target="_blank"> Stephany Drielle</a>
 
 &#xa0;
 
-<a href="#top">Back to top</a>
+<a href="#top">Voltar</a>
